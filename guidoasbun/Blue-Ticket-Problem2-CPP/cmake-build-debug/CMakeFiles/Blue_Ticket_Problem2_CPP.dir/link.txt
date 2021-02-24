@@ -1,0 +1,3 @@
+C:\Users\guido\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.7148.70\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\Blue_Ticket_Problem2_CPP.dir/objects.a
+C:\PROGRA~1\MINGW-~1\mingw64\bin\ar.exe cr CMakeFiles\Blue_Ticket_Problem2_CPP.dir/objects.a @CMakeFiles\Blue_Ticket_Problem2_CPP.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\mingw64\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\Blue_Ticket_Problem2_CPP.dir/objects.a -Wl,--no-whole-archive  -o Blue_Ticket_Problem2_CPP.exe -Wl,--out-implib,libBlue_Ticket_Problem2_CPP.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Blue_Ticket_Problem2_CPP.dir\linklibs.rsp
